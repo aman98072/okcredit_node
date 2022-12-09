@@ -4,8 +4,8 @@
   "description": "domain expire software",
   "main": "app.js",
   "dependencies": {
-    "body-parser": "^1.18.3",
-    "express": "^4.16.4",
+    "body-parser": "^1.20.1",
+    "express": "^4.18.2",
     "mongodb": "^2.2.33",
     "mongoose": "^5.4.7"
   },
